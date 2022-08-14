@@ -1,0 +1,39 @@
+header {
+ width: auto;
+ padding: 15px;
+ background-color: red;
+ margin-bottom: 30px;
+ color: white;
+}
+
+footer{
+ width: auto;
+ padding: 15px;
+ background-color: red;
+ margin-bottom: 30px;
+ color: white;
+}
+
+table th {
+ background-color: coral;
+ padding: 10px 20px;
+}
+
+table td {
+ background-color: darksalmon;
+ text-align: center;
+ padding: 10px 20px;
+}
+
+
+
+.notice {
+ background-color: burlywood;
+ padding: 5px;
+}
+
+.alert {
+ background-color: coral;
+ padding: 5px;
+ border: 2px solid red;
+}
